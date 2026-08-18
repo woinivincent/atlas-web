@@ -97,7 +97,7 @@ export default function Services() {
         <Plate
           code="Lámina 03 — Servicios"
           title="Servicios y precios, sin vueltas"
-          lead="Precios de referencia en USD (abonás en pesos al cambio del día). El presupuesto final depende del alcance y te lo doy por escrito antes de empezar."
+          lead="Precios de referencia en USD (abonás en pesos al cambio del día). El presupuesto final depende del alcance y te lo damos por escrito antes de empezar."
         />
         <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-3">
           {services.map((s) => (

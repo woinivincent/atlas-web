@@ -10,7 +10,7 @@ const items = [
   },
   {
     q: "¿Cuánto tarda un proyecto?",
-    a: "Una landing, 1 a 2 semanas. Un sitio institucional, 2 a 4. Tiendas y sistemas, entre 4 y 8 según el alcance. Antes de empezar te doy un plazo concreto por escrito y vas viendo avances durante el desarrollo.",
+    a: "Una landing, 1 a 2 semanas. Un sitio institucional, 2 a 4. Tiendas y sistemas, entre 4 y 8 según el alcance. Antes de empezar te damos un plazo concreto por escrito y vas viendo avances durante el desarrollo.",
   },
   {
     q: "¿Cómo se paga?",
@@ -22,11 +22,11 @@ const items = [
   },
   {
     q: "¿Qué pasa después de la entrega?",
-    a: "El proyecto queda a tu nombre: dominio, hosting y código. Podés seguir por tu cuenta o contratar un plan de mantenimiento para que yo me ocupe de seguridad, respaldos y cambios.",
+    a: "El proyecto queda a tu nombre: dominio, hosting y código. Podés seguir por tu cuenta o contratar un plan de mantenimiento para que nos ocupemos de seguridad, respaldos y cambios.",
   },
   {
-    q: "¿Trabajás con clientes de cualquier parte del país?",
-    a: "Sí. Todo el proceso es remoto: reuniones por videollamada, avances por WhatsApp y entregas online. Ya trabajé con comercios, ONGs e industrias de distintas provincias.",
+    q: "¿Trabajan con clientes de cualquier parte del país?",
+    a: "Sí. Todo el proceso es remoto: reuniones por videollamada, avances por WhatsApp y entregas online. Ya trabajamos con comercios, ONGs e industrias de distintas provincias.",
   },
 ];
 

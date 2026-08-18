@@ -9,9 +9,9 @@ export default function Contact() {
             Contame qué necesita tu negocio
           </h2>
           <p className="mt-4 text-[17px] text-mute">
-            La primera consulta no tiene costo ni compromiso. Me contás tu
-            situación y te digo con honestidad qué te conviene, aunque no sea
-            contratarme.
+            La primera consulta no tiene costo ni compromiso. Nos contás tu
+            situación y te decimos con honestidad qué te conviene, aunque no sea
+            contratarnos.
           </p>
           <div className="mt-8 flex flex-wrap justify-center gap-3.5">
             <a

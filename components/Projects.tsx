@@ -4,7 +4,7 @@ const cases = [
   {
     type: "Portal de socios · ONG",
     name: "Campo Escuela Flandes",
-    text: "El padrón de socios pasó de planillas manuales a un portal con credenciales QR y panel de administración de doble rol. La gestión que llevaba horas por semana hoy se resuelve en minutos.",
+    text: "El padrón de socios pasó de planillas manuales a un portal con área privada, registro y login propios, y reservas autogestionadas. Suma panel de administración con dos roles, mapa aéreo del campamento, fichas de flora por QR y biblioteca digital. Los miembros acceden a su información sin llamados ni correos.",
   },
   {
     type: "Sitio institucional · Industria",
@@ -12,9 +12,9 @@ const cases = [
     text: "Sitio rápido y estable en su propio hosting, con recepción de consultas y listas de precios exportables a Excel. La empresa dejó de depender de terceros para actualizar su presencia online.",
   },
   {
-    type: "Portal institucional · ONG",
-    name: "Asociación Civil Luján",
-    text: "Portal con área de socios y autenticación propia. Los miembros acceden a su información sin llamados ni correos, y la comisión administra todo desde un solo lugar.",
+    type: "Landing page · Desarrollador full-stack",
+    name: "Portfolio personal",
+    text: "Portfolio propio: cada proyecto presentado con el problema que resolvió, lo que se construyó, el stack y su estado real. Hecho en Next.js, React y TypeScript, con foco en que cargue rápido y se lea bien en el celular.",
   },
   {
     type: "Punto de venta · Comercio",

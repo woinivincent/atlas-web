@@ -5,7 +5,7 @@ const reasons = [
   {
     icon: Boxes,
     title: "Un solo interlocutor",
-    text: "Del relevamiento al deploy, hablás siempre con quien programa. Sin intermediarios ni cadenas de tercerización.",
+    text: "Del relevamiento al deploy tenés un referente fijo del equipo, en contacto directo con quien programa. Sin cadenas de tercerización.",
   },
   {
     icon: Layers,

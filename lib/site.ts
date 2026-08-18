@@ -1,7 +1,7 @@
 export const SITE = {
   domain: "atlastech.com.ar",
   email: "contacto@atlastech.com.ar",
-  whatsapp: "5490000000000", // TODO: reemplazar por el número real
+  whatsapp: "5492323462300",
 };
 
 export function waLink(text: string) {
