@@ -12,9 +12,9 @@ const cases = [
     text: "Sitio rápido y estable en su propio hosting, con recepción de consultas y listas de precios exportables a Excel. La empresa dejó de depender de terceros para actualizar su presencia online.",
   },
   {
-    type: "Landing page · Desarrollador full-stack",
-    name: "Portfolio personal",
-    text: "Portfolio propio: cada proyecto presentado con el problema que resolvió, lo que se construyó, el stack y su estado real. Hecho en Next.js, React y TypeScript, con foco en que cargue rápido y se lea bien en el celular.",
+    type: "Aplicación móvil · Materiales y riego",
+    name: "Pedidos Go",
+    text: "Los pedidos de materiales de riego y construcción se tomaban de forma informal, sin catálogo claro ni historial, y eso generaba errores y reprocesos. Hoy el cliente pide desde el celular, con catálogo, carrito e historial — y los datos quedan en el equipo, así la app se usa aunque no haya señal.",
   },
   {
     type: "Punto de venta · Comercio",
