@@ -24,15 +24,19 @@ const cases: ProjectCase[] = [
   },
   {
     type: "Aplicación móvil · Materiales y riego",
-    name: "Pedidos Go",
+    name: "PedidoGo",
     text: "Los pedidos de materiales de riego y construcción se tomaban de forma informal, sin catálogo claro ni historial, y eso generaba errores y reprocesos. Hoy el cliente pide desde el celular, con catálogo, carrito e historial — y los datos quedan en el equipo, así la app se usa aunque no haya señal.",
-    shots: [],
+    shots: ["/proyectos/pedidogo-1.webp"],
   },
   {
     type: "Punto de venta · Comercio",
     name: "Nueva Siembra",
     text: "Sistema de escritorio de ventas y stock que funciona aunque se corte internet, con cierres de caja y reportes en Excel y PDF. El control del negocio dejó de depender de anotaciones a mano.",
-    shots: [],
+    shots: [
+      "/proyectos/siembra-1.webp",
+      "/proyectos/siembra-2.webp",
+      "/proyectos/siembra-3.webp",
+    ],
   },
 ];
 
