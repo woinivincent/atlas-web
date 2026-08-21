@@ -9,14 +9,18 @@ const cases: ProjectCase[] = [
     name: "Campo Escuela Flandes",
     text: "El padrón de socios pasó de planillas manuales a un portal con área privada, registro y login propios, y reservas autogestionadas. Suma panel de administración con dos roles, mapa aéreo del campamento, fichas de flora por QR y biblioteca digital. Los miembros acceden a su información sin llamados ni correos.",
     url: "https://flandes.netlify.app/",
-    shots: [],
+    shots: ["/proyectos/flandes-1.webp"],
   },
   {
     type: "Sitio institucional · Industria",
     name: "Nasello Cables",
     text: "Sitio rápido y estable en su propio hosting, con recepción de consultas y listas de precios exportables a Excel. La empresa dejó de depender de terceros para actualizar su presencia online.",
     url: "https://nasellocables.com/",
-    shots: [],
+    shots: [
+      "/proyectos/nasello-1.webp",
+      "/proyectos/nasello-2.webp",
+      "/proyectos/nasello-3.webp",
+    ],
   },
   {
     type: "Aplicación móvil · Materiales y riego",
