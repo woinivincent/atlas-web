@@ -2,17 +2,18 @@ import Image from "next/image";
 import { WA_GENERIC } from "@/lib/site";
 
 const links = [
-  { href: "#servicios", label: "Servicios" },
-  { href: "#proyectos", label: "Proyectos" },
-  { href: "#mantenimiento", label: "Mantenimiento" },
-  { href: "#faq", label: "Preguntas" },
+  { href: "/#servicios", label: "Servicios" },
+  { href: "/#proyectos", label: "Proyectos" },
+  { href: "/vendia", label: "Vendia" },
+  { href: "/#mantenimiento", label: "Mantenimiento" },
+  { href: "/#faq", label: "Preguntas" },
 ];
 
 export default function Nav() {
   return (
     <nav className="sticky top-0 z-50 border-b border-line bg-bg/90 backdrop-blur">
       <div className="mx-auto flex max-w-[1120px] items-center justify-between gap-4 px-6 py-3">
-        <a href="#inicio" className="flex items-center gap-2.5">
+        <a href="/" className="flex items-center gap-2.5">
           <Image src="/logo.png" alt="Logo de Atlas Soluciones Tecnológicas" width={36} height={36} />
           <span className="flex flex-col leading-tight">
             <span className="font-display text-[19px] font-extrabold tracking-[0.06em]">
