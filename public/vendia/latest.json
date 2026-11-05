@@ -1,6 +1,6 @@
 {
-    "version":  "0.2.1",
-    "url":  "https://atlastech.com.ar/vendia/VendiaSetup-0.2.1.exe",
-    "sha256":  "ca5b0304f3c37ca0ea41182014ae496213e190085f7ab67709efc16b16109f93",
-    "notes":  "Prueba de actualización automática"
+    "version":  "0.3.0",
+    "url":  "https://atlastech.com.ar/vendia/VendiaSetup-0.3.0.exe",
+    "sha256":  "1e94cdf4527f4c370d5fb86d6c32952174aba3f05b000e8021763bb623b00b9b",
+    "notes":  "Facturación electrónica con ARCA, impresión en láser y térmica, y botón para empezar de cero"
 }
