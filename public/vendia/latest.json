@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.3",
-    "url":  "https://atlastech.com.ar/vendia/VendiaSetup-0.3.3.exe",
-    "sha256":  "e54ba0c5fb6b33ffe9cf6af53a1e98dff5d33fea6d95a8f5066c2bd8b49facaf",
-    "notes":  "Corrige un problema que podia impedir abrir el sistema al actualizar."
+    "version":  "0.3.4",
+    "url":  "https://atlastech.com.ar/vendia/VendiaSetup-0.3.4.exe",
+    "sha256":  "9fbdc320f79b380cf0f603055a4aa15291fe976e9b873725ff6a8109d945d090",
+    "notes":  "Las notas de credito indican que comprobante anulan y, si se autorizan despues, anulan la venta."
 }
