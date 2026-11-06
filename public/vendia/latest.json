@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.1",
-    "url":  "https://atlastech.com.ar/vendia/VendiaSetup-0.3.1.exe",
-    "sha256":  "49d5c54d5fd40da426a4ef41195a4086cad1a4e2ead25b204c8e5c4f816a8919",
-    "notes":  "Módulos que se activan a distancia, aviso si hay un problema al abrir y sin copias repetidas de la app"
+    "version":  "0.3.2",
+    "url":  "https://atlastech.com.ar/vendia/VendiaSetup-0.3.2.exe",
+    "sha256":  "587966bd71fac1dc53d0996cac8a1efbc2fc3468b94f34ce2233ef73adcfe65b",
+    "notes":  "Vendia tiene icono propio."
 }
