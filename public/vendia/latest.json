@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.5",
-    "url":  "https://atlastech.com.ar/vendia/VendiaSetup-0.3.5.exe",
-    "sha256":  "dec742547601ad3c7c7f8dc20cc16c987668453d0ed6a4e373c6a33ac196f270",
-    "notes":  "La demostracion queda marcada y dura 14 dias."
+    "version":  "0.3.6",
+    "url":  "https://atlastech.com.ar/vendia/VendiaSetup-0.3.6.exe",
+    "sha256":  "3087822f0bf52157ee512723a894ab6c426eaa070d3524145c7f83fd3815081d",
+    "notes":  "Compatible con pistolas lectoras de codigo de barras: funciona en ventas, stock, alta de productos y compras."
 }
