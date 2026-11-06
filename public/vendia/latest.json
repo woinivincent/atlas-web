@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.2",
-    "url":  "https://atlastech.com.ar/vendia/VendiaSetup-0.3.2.exe",
-    "sha256":  "587966bd71fac1dc53d0996cac8a1efbc2fc3468b94f34ce2233ef73adcfe65b",
-    "notes":  "Vendia tiene icono propio."
+    "version":  "0.3.3",
+    "url":  "https://atlastech.com.ar/vendia/VendiaSetup-0.3.3.exe",
+    "sha256":  "e54ba0c5fb6b33ffe9cf6af53a1e98dff5d33fea6d95a8f5066c2bd8b49facaf",
+    "notes":  "Corrige un problema que podia impedir abrir el sistema al actualizar."
 }
