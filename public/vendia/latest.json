@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.6",
-    "url":  "https://atlastech.com.ar/vendia/VendiaSetup-0.3.6.exe",
-    "sha256":  "3087822f0bf52157ee512723a894ab6c426eaa070d3524145c7f83fd3815081d",
-    "notes":  "Compatible con pistolas lectoras de codigo de barras: funciona en ventas, stock, alta de productos y compras."
+    "version":  "0.3.7",
+    "url":  "https://atlastech.com.ar/vendia/VendiaSetup-0.3.7.exe",
+    "sha256":  "03fcbd7e00fa12d9acf4b1e3c41a766931bb95450882d438bb5d84b82c38ff85",
+    "notes":  "Lee las etiquetas de las balanzas Systel Cuora y cobra el importe impreso. Se activa en Sistema, despues de probar una etiqueta real."
 }
